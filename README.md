@@ -1,4 +1,4 @@
-Step 1: Problem Definition (2 pts)
+Step 1: Problem Definition 
 Business Context
 
 Company Type: Second-hand machinery dealership chain
@@ -10,7 +10,7 @@ The dealership struggles with inconsistent demand for second-hand machines acros
 Expected Outcome
 The analysis will provide insights to rank top machines by region for strategic procurement, segment customers for personalized promotions, and forecast sales trends to enhance inventory and marketing decisions.
 
-Step 2: Success Criteria (part of 2 pts)
+Step 2: Success Criteria 
 Define exactly 5 measurable goals
 
 Top 5 machines per region/quarter → RANK()
@@ -20,7 +20,7 @@ Customer quartiles → NTILE(4)
 3-month moving averages → AVG() OVER()
 
 
-Step 3: Database Schema (part of 2 pts)
+Step 3: Database Schema 
 Design minimum 3 related tables with foreign keys
 Table,Purpose,Key Columns,Example Row
 customers,Customer info,"customer_id (PK), name, region","1001, John Doe, Kigali"
