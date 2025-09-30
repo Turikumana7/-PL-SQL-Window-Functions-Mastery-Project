@@ -33,7 +33,7 @@ Design minimum 3 related tables with foreign keys
 Table,Purpose,Key Columns,Example Row
 customers,Customer info,"customer_id (PK), name, region","1001, John Doe, Kigali"
 machines,Machine catalog,"machine_id (PK), name, category","2001, Used Tractor, Agriculture"
-<img width="518" height="187" alt="TABLE" src="https://github.com/user-attachments/assets/eaa4ed96-e9bf-420a-8ad1-b3a681e09e22" />
+
 
 <img width="300" height="158" alt="ER" src="https://github.com/user-attachments/assets/c5b0403c-4521-4d72-892e-da416db08e6c" />
 
